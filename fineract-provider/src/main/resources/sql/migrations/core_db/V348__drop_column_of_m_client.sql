@@ -1,0 +1,1 @@
+alter table m_client drop column education_level;

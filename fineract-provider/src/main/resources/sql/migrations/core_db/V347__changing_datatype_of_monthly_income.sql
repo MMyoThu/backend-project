@@ -1,0 +1,1 @@
+alter table m_client modify column monthly_income varchar(100);
